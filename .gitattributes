@@ -1,0 +1,7 @@
+* text=auto
+# Preserve the line endings of the published PowerShell files.
+*.ps1 -text
+*.md text eol=lf
+*.yml text eol=lf
+*.png binary
+LICENSE text eol=lf

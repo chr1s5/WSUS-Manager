@@ -1,0 +1,10 @@
+# Manager runtime data and local operator files
+*.jsonl
+AuditLogSettings.json
+Dashboard/
+Wiederanmeldung/
+Ausschluesse.txt
+*.tmp
+*.zip
+Thumbs.db
+.DS_Store
